@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 deployment here
 
 ## How to contribute
-Please fork before making changes.
+Please fork before making changes.All rights reserved.
