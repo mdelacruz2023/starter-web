@@ -7,7 +7,7 @@ Adding a line for rebasing example, and more changes from myfeature branch.
 test branch stash
 
 ## Purpose
-Sample website with plenty of files for demos
+Test new branch
 
 ## Deployment
 deployment here
